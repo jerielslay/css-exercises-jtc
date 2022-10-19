@@ -1,0 +1,24 @@
+.first-class {
+    background-color: rgb(255, 99, 99);
+    color: black;
+    font-size: 18px;
+}
+
+.second-class {
+    background-color: rgb(255, 99, 99);
+    color: black ;
+    font-size: 28px;
+}
+
+#id-1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#id-2 {
+    background-color: rgb(69, 253, 109);
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+}
