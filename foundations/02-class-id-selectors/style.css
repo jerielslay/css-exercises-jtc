@@ -1,13 +1,28 @@
 .first-class {
-    background-color: rgb(255, 99, 99);
-    color: black;
     font-size: 18px;
 }
 
 .second-class {
+    font-size: 28px;
+}
+.first-class,.second-class{
     background-color: rgb(255, 99, 99);
     color: black ;
-    font-size: 28px;
+}
+
+.second-class .first-class{
+    color: red;
+
+}
+
+.first-class.third-class{
+    color: green;
+
+}
+
+.third-class{
+    color:yellow;
+    background-color: black;
 }
 
 #id-1 {
